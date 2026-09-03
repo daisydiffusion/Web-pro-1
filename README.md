@@ -1,6 +1,7 @@
 # Web-pro-1
 Web Pro 1
 {relise-outdate}
+
 #
 # Complete the 'plusMinus' function below.
 #
@@ -8,7 +9,7 @@ Web Pro 1
 #
 
 def plusMinus(arr):
-    # Ok
+
 
 if __name__ == '__main__':
     n = int(input().strip())
